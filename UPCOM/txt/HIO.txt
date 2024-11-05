@@ -1,0 +1,202 @@
+    CP   Năm  TÀI SẢN NGẮN HẠN (Tỷ đồng)  Tiền và tương đương tiền (Tỷ đồng)  \
+0  HIO  2023                 90935463791                         17299326829   
+1  HIO  2022                 94884447066                         38730205118   
+
+   Giá trị thuần đầu tư ngắn hạn (Tỷ đồng)  \
+0                              22800000000   
+1                                        0   
+
+   Các khoản phải thu ngắn hạn (Tỷ đồng)  Hàng tồn kho ròng  \
+0                            23051512033          537095181   
+1                            17733626741          962592421   
+
+   Tài sản lưu động khác  TÀI SẢN DÀI HẠN (Tỷ đồng)  \
+0            27247529748               455386314167   
+1            37458022786               507074996634   
+
+   Tài sản cố định (Tỷ đồng)  Giá trị ròng tài sản đầu tư  \
+0               378157042371                  54644804103   
+1               431336709464                  60178554875   
+
+   Đầu tư dài hạn (Tỷ đồng)  Tài sản dài hạn khác  \
+0               15002288849            4727178844   
+1                5991350302            6277924393   
+
+   TỔNG CỘNG TÀI SẢN (Tỷ đồng)  NỢ PHẢI TRẢ (Tỷ đồng)  Nợ ngắn hạn (Tỷ đồng)  \
+0                 546321777958           312703326096            74337604752   
+1                 601959443700           378414514186            71515630331   
+
+   Nợ dài hạn (Tỷ đồng)  VỐN CHỦ SỞ HỮU (Tỷ đồng)  Vốn và các quỹ (Tỷ đồng)  \
+0          238365721344              233618451862              233618451862   
+1          306898883855              223544929514              223544929514   
+
+   Lãi chưa phân phối (Tỷ đồng)  TỔNG CỘNG NGUỒN VỐN (Tỷ đồng)  \
+0                   15286787197                   546321777958   
+1                    5213264849                   601959443700   
+
+   Trả trước cho người bán ngắn hạn (Tỷ đồng)  Hàng tồn kho, ròng (Tỷ đồng)  \
+0                                  1089907751                     537095181   
+1                                  3687746751                     962592421   
+
+   Cổ phiếu phổ thông (Tỷ đồng)  Vốn góp của chủ sở hữu (Tỷ đồng)  \
+0                  210000000000                      210000000000   
+1                  210000000000                      210000000000   
+
+   Vay và nợ thuê tài chính dài hạn (Tỷ đồng)  \
+0                                237562083738   
+1                                306506937874   
+
+   Vay và nợ thuê tài chính ngắn hạn (Tỷ đồng)  Lợi thế thương mại (Tỷ đồng)  \
+0                                  62637800000                    2788504186   
+1                                  60482860736                             0   
+
+   Trả trước dài hạn (Tỷ đồng)  Tài sản dài hạn khác (Tỷ đồng)  \
+0                   1938674658                               0   
+1                   2058638335                       990000000   
+
+   Phải thu dài hạn khác (Tỷ đồng)  Phải thu dài hạn (Tỷ đồng)  
+0                       2855000000                  2855000000  
+1                       3290457600                  3290457600  
+    CP   Năm  Tăng trưởng doanh thu (%)  Doanh thu (Tỷ đồng)  \
+0  HIO  2023                    0.21371         124049023312   
+1  HIO  2022                    0.00000         102206514887   
+
+   Lợi nhuận sau thuế của Cổ đông công ty mẹ (Tỷ đồng)  \
+0                                        10073522348     
+1                                         6340210507     
+
+   Tăng trưởng lợi nhuận (%)  Thu nhập tài chính  Chi phí tiền lãi vay  \
+0                   0.588831          2378719251          -35978911475   
+1                   0.000000          5406598180          -34357665716   
+
+   Doanh thu bán hàng và cung cấp dịch vụ  Doanh thu thuần  Giá vốn hàng bán  \
+0                            124049023312     124049023312      -70174440178   
+1                            102206514887     102206514887      -58516486978   
+
+       Lãi gộp  Chi phí tài chính  Lãi/lỗ từ công ty liên doanh  \
+0  53874583134       -36047171426                    -195761453   
+1  43690027909       -34434029353                     -68649698   
+
+   Chi phí quản lý DN  Lãi/Lỗ từ hoạt động kinh doanh  Thu nhập khác  \
+0         -8189062759                     11821306747     1189622339   
+1         -7263487866                      7330459172      463738808   
+
+   Thu nhập/Chi phí khác  Lợi nhuận khác  LN trước thuế  \
+0            -1082860042       106762297    11928069044   
+1             -317803477       145935331     7476394503   
+
+   Chi phí thuế TNDN hiện hành  Chi phí thuế TNDN hoãn lại  Lợi nhuận thuần  \
+0                  -1442855071                  -411691625      10073522348   
+1                   -861625771                  -274558225       6340210507   
+
+   Cổ đông của Công ty mẹ  
+0             10073522348  
+1              6340210507  
+    CP   Năm  Lãi/Lỗ ròng trước thuế  Khấu hao TSCĐ  \
+0  HIO  2023             11928069044    45898785414   
+1  HIO  2022              7476394503    40386051942   
+
+   Lãi/Lỗ từ hoạt động đầu tư  Thu nhập lãi  \
+0                 -2179938408   35978911475   
+1                 -5337948482   34357665716   
+
+   Lưu chuyển tiền thuần từ HĐKD trước thay đổi VLĐ  \
+0                                       91625827525   
+1                                       76882163679   
+
+   Tăng/Giảm các khoản phải thu  Tăng/Giảm hàng tồn kho  \
+0                    2830055691               425497240   
+1                   25314137487               394161672   
+
+   Tăng/Giảm các khoản phải trả  Tăng/Giảm chi phí trả trước  \
+0                     789662427                   -226354896   
+1                  -11915007023                  -1707291854   
+
+   Chi phí lãi vay đã trả  Tiền thu nhập doanh nghiệp đã trả  \
+0            -36023178082                        -1459981013   
+1            -34305471368                          -75272858   
+
+   Lưu chuyển tiền tệ ròng từ các hoạt động SXKD  Mua sắm TSCĐ  \
+0                                    57961528892    -102201818   
+1                                    54587419735  -17158071720   
+
+   Tiền chi cho vay, mua công cụ nợ của đơn vị khác (Tỷ đồng)  \
+0                                       -48530000000            
+1                                       -19690000000            
+
+   Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác (Tỷ đồng)  \
+0                                        48530000000                        
+1                                       121822500000                        
+
+   Đầu tư vào các doanh nghiệp khác  \
+0                      -32006700000   
+1                      -78666050506   
+
+   Tiền thu từ việc bán các khoản đầu tư vào doanh nghiệp khác  \
+0                                         9296041745             
+1                                        10042515606             
+
+   Tiền thu cổ tức và lợi nhuận được chia  Lưu chuyển từ hoạt động đầu tư  \
+0                              1999367764                    -20813492309   
+1                                       0                     16350893380   
+
+   Tiền thu được các khoản đi vay  Tiền trả các khoản đi vay  \
+0                     43796802656              -102375717528   
+1                    124295854564              -160868588330   
+
+   Lưu chuyển tiền từ hoạt động tài chính  Lưu chuyển tiền thuần trong kỳ  \
+0                            -58578914872                    -21430878289   
+1                            -36572733766                     34365579349   
+
+   Tiền và tương đương tiền  Tiền và tương đương tiền cuối kỳ  
+0               38730205118                       17299326829  
+1                4364625769                       38730205118  
+  Meta          Chỉ tiêu cơ cấu nguồn vốn                           \
+    CP   Năm Kỳ          (Vay NH+DH)/VCSH   Nợ/VCSH TSCĐ / Vốn CSH   
+0  HIO  2023  5                  2.301881  1.338522       1.618695   
+1  HIO  2022  5                  3.012803  1.692790       1.929530   
+
+                      Chỉ tiêu hiệu quả hoạt động                 \
+  Vốn CSH/Vốn điều lệ           Vòng quay tài sản Vòng quay TSCĐ   
+0            1.112469                     0.21606       0.306485   
+1            1.064500                     0.16979       0.236953   
+
+                                                        \
+  Số ngày thu tiền bình quân Số ngày tồn kho bình quân   
+0                  52.652417                  3.900181   
+1                  49.755685                  6.004226   
+
+                                                                   \
+  Số ngày thanh toán bình quân Chu kỳ tiền Vòng quay hàng tồn kho   
+0                    24.032120   80.584718              93.585411   
+1                    34.424848   90.184760              60.790513   
+
+  Chỉ tiêu khả năng sinh lợi                                                 \
+               Biên EBIT (%) Biên lợi nhuận gộp (%) Biên lợi nhuận ròng (%)   
+0                   0.368286               0.434301                0.081206   
+1                   0.356401               0.427468                0.062033   
+
+                                                                 \
+    ROE (%)  ROIC (%)   ROA (%) EBITDA (Tỷ đồng) EBIT (Tỷ đồng)   
+0  0.044070  0.085583  0.017545      91584305789    45685520375   
+1  0.028362  0.061684  0.010533      76812591985    36426540043   
+
+         Chỉ tiêu thanh khoản                             \
+  Chỉ số thanh toán hiện thời Chỉ số thanh toán tiền mặt   
+0                    1.223277                   0.232713   
+1                    1.326765                   0.541563   
+
+                                                                      \
+  Chỉ số thanh toán nhanh Khả năng chi trả lãi vay Đòn bẩy tài chính   
+0                0.542805                -1.269786          2.338522   
+1                0.789531                -1.060216          2.692790   
+
+  Chỉ tiêu định giá                                                           \
+  Vốn hóa (Tỷ đồng) Số CP lưu hành (Triệu CP)        P/E       P/B       P/S   
+0      219345000000                  21000000  23.667836  0.938903  1.768212   
+1      497490000000                  21000000  78.465849  2.225459  4.867498   
+
+                                                    
+  P/Cash Flow   EPS (VND)    BVPS (VND)  EV/EBITDA  
+0    3.784320  479.691540  11124.688184   5.483970  
+1    9.113638  301.914786  10644.996644  10.750185  

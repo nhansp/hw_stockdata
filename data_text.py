@@ -28,25 +28,29 @@ def fire(source_name):
     # get information
     def hnx(el):
         # object for writing to file
-        source_write = open(source_name + '/' + el + '.txt', 'w')
+        source_write = open(source_name + '/txt/' + el + '.txt', 'w')
             
         # fetch from vnstock
         stock = Vnstock().stock(symbol=el, source='VCI')
         
+        source_data = [
+            (stock.finance.balance_sheet(period='year', lang='vi')),
+            (stock.finance.income_statement(period='year', lang='vi')),
+            (stock.finance.cash_flow(period='year', lang='vi')),
+            (stock.finance.ratio(period='year', lang='vi'))
+        ]
+        source_data_names = [
+            'balance sheet', 
+            'income statement', 
+            'cash flow', 
+            'ratio'
+        ]
         # display full dataframe
-        with pd.option_context('display.max_rows', None, 'display.max_columns', None, 'dropna', True):
+        with pd.option_context('display.max_rows', None, 'display.max_columns', None, 'dropna', True), pd.ExcelWriter(source_name + '/xlsx/' + el + '.xlsx') as ewriter:
             
-            # balance sheet
-            print(stock.finance.balance_sheet(period='year', lang='vi'), file=source_write)
-            
-            # income statement
-            print(stock.finance.income_statement(period='year', lang='vi'), file=source_write)
-            
-            # cash flow
-            print(stock.finance.cash_flow(period='year', lang='vi'), file=source_write)
-            
-            # ratio
-            print(stock.finance.ratio(period='year', lang='vi'), file=source_write)
+            for source_idx in range(len(source_data)):
+                print(source_data[source_idx], file=source_write)
+                source_data[source_idx].to_excel(ewriter, sheet_name=source_data_names[source_idx], index=False)
                 
             # immediately close write object after we've done file writings
             source_write.close()
