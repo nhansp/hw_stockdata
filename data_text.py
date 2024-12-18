@@ -39,20 +39,14 @@ def fire(source_name):
             (stock.finance.cash_flow(period='year', lang='vi')),
             (stock.finance.ratio(period='year', lang='vi'))
         ]
-        source_data_names = [
-            'balance sheet', 
-            'income statement', 
-            'cash flow', 
-            'ratio'
-        ]
         # display full dataframe
         with pd.option_context('display.max_rows', None, 'display.max_columns', None, 'dropna', True), pd.ExcelWriter(source_name + '/xlsx/' + el + '.xlsx') as ewriter:
+            last_row_len = 0
             
             for source_idx in range(len(source_data)):
-                print(source_data[source_idx], file=source_write)
-                source_data[source_idx].to_excel(ewriter, sheet_name=source_data_names[source_idx], index=False)
-                
-            # immediately close write object after we've done file writings
+                print(el)
+                source_data[source_idx].to_excel(ewriter, sheet_name=el, startrow = (0 if source_idx == 0 else last_row_len), startcol = 0)
+                last_row_len += len(source_data[source_idx].index) + 5
             source_write.close()
         
         pass
